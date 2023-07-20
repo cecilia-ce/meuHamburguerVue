@@ -1,3 +1,8 @@
+Projeto desenvolvido a partir do meu início aos estudos do framework vue.  
+
+![Meu hamburguer - Google Chrome 2023-07-20 10-36-41](https://github.com/cecilia-ce/meuHamburguerVue/assets/90211249/0f87f149-7854-4f9d-a5c2-1f4b2afa5b0e)
+
+# ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # app-vue
 
 This template should help get you started developing with Vue 3 in Vite.
